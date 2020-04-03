@@ -35,19 +35,8 @@
 # Portable Network Graphics
 *.png
 
-# Animated Portable Network Graphics
-*.apng
-
 # Multiple-image Network Graphics
 *.mng
-
-# Tagged Image File Format
-*.tiff
-*.tif
-
-# Scalable Vector Graphics
-*.svg
-*.svgz
 
 # Portable Document Format
 *.pdf
@@ -59,11 +48,6 @@
 *.bmp
 *.dib
 
-# ICO
-*.ico
 
-# 3D Images
-*.3dm
-*.max
 
 # End of https://www.gitignore.io/api/images
