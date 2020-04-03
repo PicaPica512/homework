@@ -18,10 +18,6 @@
 *.jpm
 *.mj2
 
-# JPEG XR
-*.jxr
-*.hdp
-*.wdp
 
 # Graphics Interchange Format
 *.gif
