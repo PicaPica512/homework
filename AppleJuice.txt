@@ -4,3 +4,20 @@ Pellentesque ac dolor tincidunt, porta diam iaculis, scelerisque tellus.
 Sed sit amet odio fermentum, euismod diam non, tempus lectus. 
 Mauris fermentum ipsum turpis, a varius elit mollis vel. 
 Vestibulum maximus tortor vitae justo sodales, feugiat tempus sem feugiat.
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+</body>
+</html>
